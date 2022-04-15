@@ -1,9 +1,6 @@
-!My First book
-
-
 ${inputFile:path=Chapters/Chapter1/stack-machine.pillar}$
 
-${inputFile:path=Chapters/Chapter2/chapter2.pillar}$
+${inputFile:path=Chapters/Chapter2/register-machine.pillar}$
 
 ${inputFile:path=Chapters/Chapter3/ssa.pillar}$
 
