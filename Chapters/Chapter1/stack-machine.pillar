@@ -3,3 +3,5 @@
 !! Compiling AST to stack code
 !! A stack based interpreter
 !! Calling conventions, stack management (FP, SP…)
+!! Control flow (if)
+!! Loops: Back Jump
