@@ -1,0 +1,47 @@
+\changetocdepth {1}
+\selectlanguage *{english}
+\contentsline {chapter}{Illustrations}{iii}{section*.2}%
+\needspace {6\baselineskip }
+\contentsline {part}{\partnumberline {I}A Stack Machine}{1}{part.1}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {1}A stack based language (and the stack)}{3}{chapter.1}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {2}Compiling AST to stack code}{5}{chapter.2}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {3}A stack based interpreter}{7}{chapter.3}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {4}Calling conventions, stack management (FP, SP…)}{9}{chapter.4}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {5}Control flow (if)}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Basic Block}{11}{section.5.1}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {6}Loops: Back Jump}{13}{chapter.6}%
+\needspace {6\baselineskip }
+\contentsline {part}{\partnumberline {II}A Register Machine}{15}{part.2}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {7}Assembly Overview (maybe our own simple assembly?)}{17}{chapter.7}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {8}Compiling AST to register code - first version}{19}{chapter.8}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {9}Compiling Stack Code to Register code}{21}{chapter.9}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {10}Calling convention revisited}{23}{chapter.10}%
+\needspace {6\baselineskip }
+\contentsline {part}{\partnumberline {III}Static Single Assignment}{25}{part.3}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {11}SSA}{27}{chapter.11}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {12}Building SSA from AST}{29}{chapter.12}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {13}Building SSA from stack code}{31}{chapter.13}%
+\needspace {6\baselineskip }
+\contentsline {part}{\partnumberline {IV}Code Transformations}{33}{part.4}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {14}Fixed Point algorithms}{35}{chapter.14}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {15}Optimization a}{37}{chapter.15}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {16}Optimization b}{39}{chapter.16}%
+\needspace {3\baselineskip }
+\contentsline {chapter}{\chapternumberline {17}Register Allocation}{41}{chapter.17}%
+\contentsline {chapter}{Bibliography}{43}{chapter*.7}%
