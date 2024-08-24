@@ -1,5 +1,5 @@
 \changetocdepth {1}
-\selectlanguage *{english}
+\selectlanguage *[]{english}
 \contentsline {chapter}{Illustrations}{iii}{section*.2}%
 \needspace {6\baselineskip }
 \contentsline {part}{\partnumberline {I}A Stack Machine}{1}{part.1}%
