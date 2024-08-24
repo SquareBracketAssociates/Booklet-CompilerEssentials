@@ -1,1 +1,0 @@
-<!inputFile|path=Chapters/Chapter1/stack-machine.md!><!inputFile|path=Chapters/Chapter2/register-machine.md!><!inputFile|path=Chapters/Chapter3/ssa.md!><!inputFile|path=Chapters/Chapter4/transformations.md!>
