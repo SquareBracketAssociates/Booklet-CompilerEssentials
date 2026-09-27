@@ -1,0 +1,1 @@
+# A Stack Machine## A stack based language \(and the stack\)## Compiling AST to stack code## A stack based interpreter## Calling conventions, stack management \(FP, SP…\)## Control flow \(if\)### Basic Block## Loops: Back Jump
